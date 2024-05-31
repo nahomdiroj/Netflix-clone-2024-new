@@ -1,9 +1,10 @@
 {
-	"homepage": "https://dannythedeveloper1.github.io/Netflix-Clone-2024",
+	"homepage": "https://nahomdiroj.github.io/Netflix-clone-2024-new",
 	"name": "netflix-clone",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
+		"homepage":"https://",
 		"@emotion/react": "^11.11.3",
 		"@emotion/styled": "^11.11.0",
 		"@mui/icons-material": "^5.15.4",
@@ -46,6 +47,7 @@
 		]
 	},
 	"devDependencies": {
-		"gh-pages": "^6.1.1"
+		"gh-pages": "^6.1.1",
+		"github-pages": "^3.0.2"
 	}
 }
